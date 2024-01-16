@@ -34,7 +34,7 @@ const CONFIG = {
     '🏃 脚踏实地行动派',
     '🤖️ 数码摄影爱好者',
   ],
-  HEO_INFO_CARD_URL: 'https://github.com/tangly1024/NotionNext', // 个人资料底部按钮链接
+  HEO_INFO_CARD_URL: 'https://lzzzl.notion.site/ZZZ-5c69b354082b49909c11317b9e3599b2?pvs=4', // 个人资料底部按钮链接
 
   // 用户技能图标
   HEO_GROUP_ICONS: [
