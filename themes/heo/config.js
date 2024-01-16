@@ -1,7 +1,7 @@
 const CONFIG = {
   HEO_HOME_BANNER_ENABLE: true,
 
-  HEO_SITE_CREATE_TIME: '2021-09-21', // 建站日期，用于计算网站运行的第几天
+  HEO_SITE_CREATE_TIME: '2024-01-16', // 建站日期，用于计算网站运行的第几天
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
@@ -18,9 +18,9 @@ const CONFIG = {
   HEO_HERO_TITLE_LINK: 'samate.xyz',
 
   // 英雄区显示三个置顶分类
-  HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
-  HEO_HERO_CATEGORY_2: { title: '热门文章', url: '/tag/热门文章' },
-  HEO_HERO_CATEGORY_3: { title: '实用教程', url: '/tag/实用教程' },
+  HEO_HERO_CATEGORY_1: { title: '拉链', url: '/tag/拉链' },
+  HEO_HERO_CATEGORY_2: { title: '日常', url: '/tag/日常' },
+  HEO_HERO_CATEGORY_3: { title: '摄影', url: '/tag/摄影' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HEO_HERO_RECOMMEND_POST_TAG: '推荐',
@@ -31,11 +31,8 @@ const CONFIG = {
   HEO_INFOCARD_GREETINGS: [
     '你好！我是',
     '🔍 分享与热心帮助',
-    '🤝 专修交互与设计',
     '🏃 脚踏实地行动派',
-    '🏠 智能家居小能手',
-    '🤖️ 数码科技爱好者',
-    '🧱 团队小组发动机'
+    '🤖️ 数码摄影爱好者',
   ],
   HEO_INFO_CARD_URL: 'https://github.com/tangly1024/NotionNext', // 个人资料底部按钮链接
 
