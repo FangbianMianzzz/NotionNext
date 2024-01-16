@@ -100,7 +100,7 @@ const CONFIG = {
   ],
 
   HEO_SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
-  HEO_SOCIAL_CARD_TITLE_1: '交流频道',
+  HEO_SOCIAL_CARD_TITLE_1: '浔兴拉链',
   HEO_SOCIAL_CARD_TITLE_2: '加入我们的讨论分享',
   HEO_SOCIAL_CARD_TITLE_3: '浔兴拉链',
   HEO_SOCIAL_CARD_URL: 'https://www.sbs-zipper.com/',
